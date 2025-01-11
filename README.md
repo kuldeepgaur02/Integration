@@ -144,9 +144,4 @@ Each integration follows a standardized pattern:
 - Automated testing suite
 - Rate limiting implementation
 
-## 📜 License
-This project is licensed under the MIT License - see the LICENSE file for details
-
----
-
 Feel free to reach out for any questions or clarifications!
